@@ -49,3 +49,6 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 - The AtliQ Hardware dataset was used for this project, providing valuable sales and financial data.
 - Special thanks to the contributors and developers of Excel and related tools for enabling powerful data analysis and reporting capabilities.
+
+## Linkedln post Link:-
+https://www.linkedin.com/feed/update/urn:li:activity:7114959777276866561/
